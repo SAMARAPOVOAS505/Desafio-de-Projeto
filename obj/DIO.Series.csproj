@@ -1,0 +1,7 @@
+<project sdk = " Microsoft.NET.Sdk" >
+
+   <project group >
+     <OutputType >Exe</ OutputType >
+     <TargetFramework >netcoreapp3.1</ TargetFramework>
+   </PropertyGroup >
+</project>
